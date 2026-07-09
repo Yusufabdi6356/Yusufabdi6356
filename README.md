@@ -28,14 +28,9 @@
 | [HTML & CSS Project](https://github.com/Yusufabdi6356/html-css-project) | Responsive site built with semantic HTML and modern CSS | HTML, CSS |
 | [Dugsiiye JS Exercises](https://github.com/Yusufabdi6356/Dugsiiye-JS-Exercises) | JavaScript exercises and practice work | JavaScript |
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yusufabdi6356&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufabdi6356&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=8B5CF6" alt="Top languages" />
-
-  <br /><br />
-
   <img src="https://streak-stats.demolab.com?user=Yusufabdi6356&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub streak" />
 </div>
 
